@@ -93,7 +93,7 @@ public class JdbcMemberRepository implements MemberRepository {
         }
     }
 
-    @Override
+//    @Override
     public void clearStore() {
 
     }
